@@ -4,8 +4,6 @@
   <p><i>self-taught · java · plugins · configs · always building</i></p>
 </div>
 
----
-
 <div align="center">
   <a href="https://discord.com/users/505864551074365453">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" />
@@ -14,16 +12,6 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=FBD000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
-
----
-
-> role      :: minecraft developer & configurator  
-> exp       :: 6+ years  
-> status    :: open for commissions  
-> focus     :: java · plugins · server configs  
-> learning  :: kotlin · next.js  
-
----
 
 ### 🧱 Languages & Frameworks
 <div align="left">
@@ -62,9 +50,6 @@
   <img src="https://img.shields.io/badge/BungeeCord-%23222222.svg?style=for-the-badge&logoColor=white" />
 </div>
 
----
-
-### 🔥 stats
 
 <div align="center">
   <img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=bytezlol&count_private=true&theme=dark&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FBD000&icon_color=FBD000&text_color=ffffff" />
