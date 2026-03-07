@@ -14,7 +14,7 @@
 </div>
 
 ### 🧱 Languages & Frameworks
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
@@ -23,7 +23,7 @@
 </div>
 
 ### 🗄️ Databases
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb" />
@@ -32,7 +32,7 @@
 </div>
 
 ### ⚙️ Devops & tooling
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
@@ -43,16 +43,10 @@
 </div>
 
 ### 🟩 Minecraft platforms
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Spigot-%23222222.svg?style=for-the-badge&logo=data:image/png;base64,&logoColor=ED8106" />
   <img src="https://img.shields.io/badge/Paper-%23222222.svg?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Velocity-%23222222.svg?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/BungeeCord-%23222222.svg?style=for-the-badge&logoColor=white" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=bytezlol&count_private=true&theme=dark&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FBD000&icon_color=FBD000&text_color=ffffff" />
-  <br/>
-  <img src="https://github-readme-streak-stats-eight-bice.vercel.app?user=bytezlol&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0d0d&ring=FBD000&fire=FBD000&currStreakLabel=FBD000" />
-</div>
