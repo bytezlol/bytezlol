@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+:root {
+    --color-bg: #050507;
+    --color-surface: #0a0a0f;
+    --color-surface-raised: #111118;
+    --color-border: #1a1a24;
+    --color-border-hover: #2a2a38;
+    --color-text-primary: #f0f0f5;
+    --color-text-secondary: #8888a0;
+    --color-text-muted: #555568;
+    --color-accent: #6366f1;
+    --color-accent-muted: rgba(99, 102, 241, 0.15);
+    --color-available: #22c55e;
+    --color-limited: #eab308;
+    --color-unavailable: #ef4444;
+}
+
+html.lenis {
+    height: auto;
+}
+
+.lenis.lenis-smooth {
+    scroll-behavior: auto;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--color-bg);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color-border-hover);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--color-text-muted);
+}
+
+::selection {
+    background: rgba(99, 102, 241, 0.3);
+    color: white;
+}
+
+@keyframes border-shift {
+    0%, 100% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+.chrome-btn {
+    position: relative;
+    background: linear-gradient(135deg, #ffffff, #e0e7ff, #ffffff, #c7d2fe, #ffffff);
+    background-size: 300% 300%;
+    animation: border-shift 4s ease infinite;
+}
+
+/* Typing code background */
+.code-terminal {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: blur(10px);
+    opacity: 0.35;
+    overflow: hidden;
+}
+
+.code-text {
+    font-family: "Fira Code", "JetBrains Mono", "Cascadia Code", monospace;
+    font-size: clamp(14px, 1.8vw, 22px);
+    line-height: 1.7;
+    white-space: pre;
+    margin: 0;
+    padding: 3rem;
+    color: #d4d4d4;
+}
+
+.code-cursor {
+    display: inline-block;
+    width: 2px;
+    height: 1.2em;
+    background: #22c55e;
+    box-shadow: 0 0 8px #22c55e, 0 0 20px rgba(34, 197, 94, 0.4);
+    vertical-align: text-bottom;
+    margin-left: 1px;
+}
+
+/* Syntax colors */
+.code-kw { color: #569cd6; }
+.code-tp { color: #4ec9b0; }
+.code-vr { color: #9cdcfe; }
+.code-fn { color: #dcdcaa; }
+.code-st { color: #ce9178; }
+.code-cm { color: #6a9955; }
+.code-an { color: #dcdcaa; }
+.code-pl { color: #d4d4d4; }
+
