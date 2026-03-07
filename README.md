@@ -13,7 +13,6 @@
   </a>
 </div>
 
-### 🧱 Languages & Frameworks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img width="12" />
@@ -22,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
 </div>
 
-### 🗄️ Databases
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
   <img width="12" />
@@ -31,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis" />
 </div>
 
-### ⚙️ Devops & tooling
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img width="12" />
@@ -42,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle" />
 </div>
 
-### 🟩 Minecraft platforms
 <div align="center">
   <img src="https://img.shields.io/badge/Spigot-%23222222.svg?style=for-the-badge&logo=data:image/png;base64,&logoColor=ED8106" />
   <img src="https://img.shields.io/badge/Paper-%23222222.svg?style=for-the-badge&logoColor=white" />
