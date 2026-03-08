@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FBD000&center=true&width=600&lines=bytezlol" alt="bytezlol" />
   <p><b>minecraft developer & configurator</b></p>
-  <p><i>self-taught · java · plugins · configs · always building</i></p>
+  <p><i>Self-taught · Java · Plugins · Configs · Always Learning</i></p>
 </div>
 
 <div align="center">
