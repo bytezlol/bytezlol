@@ -39,10 +39,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Spigot-%23222222.svg?style=for-the-badge&logo=data:image/png;base64,&logoColor=ED8106" />
-  <img src="https://img.shields.io/badge/Paper-%23222222.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Velocity-%23222222.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/BungeeCord-%23222222.svg?style=for-the-badge&logoColor=white" />
-</div>
-
