@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/505864551074365453">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://bytezlol.github.io/bytezlol">
+  <a href="https://bytez.wtf">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=FBD000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
