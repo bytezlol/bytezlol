@@ -4,6 +4,12 @@
   <p><i>Self-taught · Java · Plugins · Configs · Always Learning</i></p>
 </div>
 
+### About  
+Focused on building reliable backend systems with Java. <br>
+Contributor to open source, always working on new ideas. <br>
+Learning Kotlin and modern web tech like <a href="https://nextjs.org" target="_blank">Next.js</a>. <br>
+Continuous learner, always evolving.  
+
 <div align="center">
   <a href="https://discord.com/users/505864551074365453">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" />
