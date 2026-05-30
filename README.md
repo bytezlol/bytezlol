@@ -4,15 +4,6 @@
   <p><i>Self-taught · Java · Plugins · Configs · Always Learning</i></p>
 </div>
 
-<div align="center">
-
-Java dev focused on clean, efficient plugin architecture. <br>
-Always shipping something new, always breaking something worse. <br>
-Currently picking up Kotlin and poking at <a href="https://nextjs.org" target="_blank">Next.js</a>. <br>
-Never done learning.
-
-</div>
-
 
 <div align="center">
   <a href="https://discord.com/users/505864551074365453">
